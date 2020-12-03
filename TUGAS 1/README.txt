@@ -42,7 +42,7 @@ Cara Instalasi Program
 	* D:\Praktikum PBO 2020>cd Tugas 1
 
 2. Complie Code Program
-	* D:\Praktikum PBO 2020\Tugas 1>javac Main.java
+	* D:\Praktikum PBO 2020\Tugas 1\src>javac Main.java
 
 3. Run Program
-	* D:\Praktikum PBO 2020\Tugas 1>java Main
+	* D:\Praktikum PBO 2020\Tugas 1\src>java Main
